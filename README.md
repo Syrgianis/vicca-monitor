@@ -1,2 +1,2 @@
-# nis2-grc-tagger-p6
+# Monitor module code (Python Core v1).
 
